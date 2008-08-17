@@ -1,11 +1,4 @@
+#summary Documentation of this project for developers.
 #labels Phase-Design
-_Documentation of this project for developers._
 
-= Introduction =
-
-Coming soon.
-
-
-= Details =
-
-Coming soon.
+It is included in the commented lines in the source code, see the [http://hackystat-ui-sensordatavisualizer.googlecode.com/files/hackystat-ui-sensordatavisualizer-dev-8.0.08092008.zip source code] for details. More to be coming up soon.
