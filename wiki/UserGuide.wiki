@@ -1,14 +1,5 @@
-#summary One-sentence summary of this page.
+#summary User guide for using this application.
 #labels Featured,Phase-Support
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=1.0 Video tutorial and application overview=
+A [http://individual.utoronto.ca/i_wa_wong/VisualizationOfHackyStatData.html screencast] contains a brief overview of the tool and its usage in action.
