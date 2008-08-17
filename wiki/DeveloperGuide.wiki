@@ -8,13 +8,13 @@
 
 =2.0 Building the project (with Flare libraries) = 
 
-  # Install Flex builder SDK/Flex trial version
-  # Create a project.
+  1. Install Flex builder SDK/Flex trial version
+  2. Create a project.
 http://individual.utoronto.ca/i_wa_wong/capture.JPG
-  # Download the feature downloads for the developers.
-  # Unzip the folder and copy and paste the src folder into the src folder of the newly created project.
-  # Click the run button in the Flex builder SDK/Flex trial version to build the project.
-  # You should then be able to see your application from your bin-debug folder loaded into your defaulted browser.
+  3. Download the feature downloads for the developers.
+  4. Unzip the folder and copy and paste the src folder into the src folder of the newly created project.
+  5. Click the run button in the Flex builder SDK/Flex trial version to build the project.
+  6. You should then be able to see your application from your bin-debug folder loaded into your defaulted browser.
 
 =3.0 Important security settings needed for the application built= 
 Due to the [http://www.adobe.com/devnet/flash/articles/fplayer8_security_print.html security changes] of Flash 7 onwards, in order to allow the built flash application to fetch data remotely, it is necessary to [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html change the current directory] where the built application locates to “local trusted”. The file bin-debug of a project is of sandbox type "local-trusted" by default once the project is created. 
