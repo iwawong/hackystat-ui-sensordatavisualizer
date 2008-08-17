@@ -1,4 +1,4 @@
-#summary haha.
+#summary List of tools and technologies that are needed for development.
 #labels Phase-Implementation,Featured
 
 = Introduction =
