@@ -1,0 +1,1 @@
+It is included in the commented lines in the source code, see the [source code](http://hackystat-ui-sensordatavisualizer.googlecode.com/files/hackystat-ui-sensordatavisualizer-dev-8.0.08092008.zip) for details. More to be coming up soon.
